@@ -1,0 +1,43 @@
+.contanier {
+    width: 80%;
+    margin: auto;
+
+}
+
+.ajuste {
+    width: 7em;
+    margin: auto;
+}
+
+
+img {
+    width: 15%;
+    margin: 10px;
+    margin: auto;
+
+}
+
+.teste_gera {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.teste_gera > div {
+    width: 30%;
+    padding: 10px;
+}
+
+.teste_gera > div > img{
+    height: 80%;
+    width: 80%;
+}
+
+.ajustePag{
+    justify-content: end;
+}
+
+.spinner-border{
+    width: 4em;
+    height: 4em;
+}
